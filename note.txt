@@ -1,0 +1,17 @@
+Hugging Face Spaces itu:
+
+Python runtime
+Gradio / Streamlit
+Atau static HTML sederhana
+BUKAN Node server
+BUKAN Next.js runtime
+
+
+HF Spaces itu nge-host APA?
+
+HF Spaces TIDAK nge-host Next.js secara native.
+Dia nge-host:
+
+Python app (Gradio / Streamlit)
+Static frontend sederhana
+Backend logic + LLM call
